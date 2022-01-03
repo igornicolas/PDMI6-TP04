@@ -1,0 +1,17 @@
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.deps.json
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.dll
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\bin\Debug\netstandard2.0\ref\TP04.dll
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.pdb
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.csproj.AssemblyReference.cache
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\View\Aluno\MainPage.xaml.g.cs
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\View\Aluno\NovoAlunoView.xaml.g.cs
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.AssemblyInfoInputs.cache
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.AssemblyInfo.cs
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.csproj.CoreCompileInputs.cache
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.dll
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\ref\TP04.dll
+C:\Users\Igor Nicolas\source\repos\TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.pdb
